@@ -10,7 +10,10 @@ Make it use the full width in the sidebar, smaller + symbol, centered button tex
 4. Hide Calendar, Keep, Tasks right sidebar
 5. Hide Hangouts icons in left footer
 
-![screenshot](https://user-images.githubusercontent.com/307676/47175675-0581cf00-d314-11e8-8fa2-5d1e31a15f8b.png)
+![screenshot](https://user-images.githubusercontent.com/307676/47175907-9c4e8b80-d314-11e8-820d-804b7b21546d.png)
+
+
+*Screenshot of the new Compose button design*
 
 ## Install
 
@@ -21,7 +24,7 @@ Make it use the full width in the sidebar, smaller + symbol, centered button tex
 + Navigate to the folder where you saved it
 
 ## Usage
-+ Just open Gmail :)
++ Open Gmail
 
 ### Changelog
 + 2018-10-18: 🎉 First version released
