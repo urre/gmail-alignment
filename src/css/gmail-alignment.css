@@ -1,0 +1,31 @@
+/* + Compose button */
+.z0 > .L3 {
+	width: 83% !important;
+	justify-content: center !important;
+	height: 38px !important;
+}
+
+/* Skriv + icon size */
+.z0 > .L3::before {
+	background-size: 22px !important;
+}
+
+/* Chat */
+#talk_roster {
+	display: none;
+}
+
+/* Calendar, Keep, Tasks */
+.nH.bAw.nn {
+	display: none;
+}
+
+/* Footer */
+.aeG {
+	display: none;
+}
+
+/* Hangouts icons in left footer */
+.J-KU-Jg.J-KU-Jg-Zc.aj5 {
+	display: none;
+}

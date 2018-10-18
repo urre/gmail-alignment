@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"name": "Gmail Alignment",
+	"description": "Peace of mind for Gmail users",
+	"version": "0.1.1",
+	"permissions": ["tabs"],
+	"web_accessible_resources": ["src/css/gmail-alignment.css"],
+	"content_scripts": [
+		{
+			"matches": ["https://mail.google.com/mail/*"],
+			"css": ["src/css/gmail-alignment.css"]
+		}
+	]
+}
